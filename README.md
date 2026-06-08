@@ -1,48 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Sebastina%20Divya%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Snowflake%20%7C%20Python%20%7C%20Data%20Engineer&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Sebastina%20Divya%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Snowflake%20Data%20Engineer%20|%20Python%20Developer%20|%20Cloud%20Data%20Architect&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SebastinaDivya\&style=for-the-badge\&color=58a6ff\&label=PROFILE+VIEWS)
 
-<h3>❄️ Snowflake Data Engineer | 🐍 Python Developer | ☁️ AWS</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Snowflake+Data+Engineer;Python+Developer;Cloud+Data+Architect;AWS+Data+Engineering+Specialist;Teradata+to+Snowflake+Migration+Expert;Building+Scalable+Data+Platforms" />
+</p>
 
-Building scalable data pipelines, ETL/ELT solutions, and cloud-native data platforms using Snowflake, Python, SQL, and AWS.
+Building scalable data pipelines, ETL/ELT solutions, cloud-native analytics platforms, and enterprise data warehouse solutions using Snowflake, Python, SQL, and AWS.
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 ```python
 sebastina = {
-    "role": "Snowflake / Python Data Engineer",
-    "experience": "5+ Years",
+    "role": "Senior Snowflake / Python Data Engineer",
+    "experience": "9+ Years",
     "location": "Texas, USA",
+
+    "domains": [
+        "Insurance",
+        "Banking",
+        "Retail",
+        "Financial Services"
+    ],
+
     "skills": [
         "Snowflake",
         "Python",
         "SQL",
+        "AWS",
         "ETL/ELT",
-        "AWS S3",
+        "Data Warehousing",
         "REST APIs",
-        "Data Warehousing"
+        "Data Modeling",
+        "Performance Tuning"
     ],
+
     "currently_learning": [
         "Snowflake Cortex",
         "AI-Powered Analytics",
-        "Data Engineering Automation"
+        "Data Engineering Automation",
+        "Generative AI for Data Platforms"
     ]
 }
 ```
 
 ---
 
-## 🚀 Core Expertise
+# 🚀 Core Expertise
 
-✅ Snowflake Architecture
+✅ Snowflake Architecture & Optimization
 
-✅ Snowpipe, Streams, Tasks
+✅ Snowpipe, Streams, Tasks & Dynamic Tables
 
 ✅ ETL / ELT Pipeline Development
 
@@ -50,7 +64,7 @@ sebastina = {
 
 ✅ Teradata to Snowflake Migration
 
-✅ Python Automation
+✅ Python Automation & Framework Development
 
 ✅ REST API Integrations
 
@@ -58,27 +72,31 @@ sebastina = {
 
 ✅ Data Validation & Reconciliation
 
-✅ CI/CD using Git, Jenkins & GitHub
+✅ AWS S3 Integration
+
+✅ CI/CD using Git, GitHub & Jenkins
+
+✅ Production Support & Incident Resolution
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
-### Data Engineering
+## Data Engineering
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%2FELT-Data%20Engineering-blue?style=for-the-badge)
 
-### Programming
+## Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
 
-### Cloud
+## Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge\&logo=amazonaws)
 
-### Databases
+## Databases
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
 ![Teradata](https://img.shields.io/badge/Teradata-FF6C37?style=for-the-badge)
@@ -87,29 +105,68 @@ sebastina = {
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,aws,postgres,mongodb,git,github,docker,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SebastinaDivya&show_icons=true&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SebastinaDivya&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastinaDivya&theme=github-dark-blue&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastinaDivya&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+# 🏆 GitHub Achievements
 
-* Snowflake Cortex
-* AI-powered Data Engineering
-* Data Quality Automation
-* Advanced Snowflake Performance Tuning
-* Cloud-native Analytics Solutions
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SebastinaDivya\&theme=algolia\&no-frame=true\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Contribution Graph
+
+[![Divya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SebastinaDivya\&theme=github-compact)](https://github.com/SebastinaDivya)
+
+---
+
+# 🌱 Currently Exploring
+
+* Snowflake Cortex
+* AI-Powered Data Engineering
+* Advanced Snowflake Performance Tuning
+* Data Quality Automation
+* Cloud-Native Analytics Platforms
+* GenAI Integration with Data Warehouses
+
+---
+
+# 📚 Certifications & Learning
+
+🎯 Snowflake Data Engineering
+
+🎯 AWS Cloud Services
+
+🎯 Python Development
+
+🎯 Data Warehousing & Modeling
+
+🎯 AI-Powered Analytics
+
+---
+
+# 📫 Connect With Me
 
 💼 LinkedIn: [www.linkedin.com/in/sebastinadivya](http://www.linkedin.com/in/sebastinadivya)
 
@@ -119,11 +176,14 @@ sebastina = {
 
 ---
 
-⭐ Always interested in building scalable data solutions, automation frameworks, and modern Snowflake-based data platforms.
-
 <div align="center">
+
+### ⭐ "Transforming Data Into Business Value"
+
+Always interested in building scalable data platforms, automation frameworks, and modern cloud-native analytics solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
 
 </div>
+
 
